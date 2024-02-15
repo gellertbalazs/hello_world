@@ -1,5 +1,5 @@
 def my_func_1():
-    print(1)
+    print(11)
 
 def my_func_a():
     pass
