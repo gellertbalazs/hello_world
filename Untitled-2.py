@@ -6,3 +6,6 @@ def my_func_3():
 
 def my_func_4():
     pass
+
+def my_func_5():
+    pass
